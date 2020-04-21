@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "name": "Большой тролль-воин",
+    "picName": "n_throll",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 2,
+    "name": "Вождь гигантов",
+    "picName": "n_gigant",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 3,
+    "name": "Гвардеец-защитник",
+    "picName": "n_gvardz",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 4,
+    "name": "Гигантский василиск",
+    "picName": "n_vasilisk",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 5,
+    "name": "Гигантский тритон",
+    "picName": "n_triton",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 6,
+    "name": "Кабалло",
+    "picName": "n_kaballo",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 7,
+    "name": "Капитан акрионцев",
+    "picName": "n_kepacrion",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 8,
+    "name": "Командир кобольдов",
+    "picName": "n_cobolt",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 9,
+    "name": "Королева гарпий",
+    "picName": "n_garpiya",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 10,
+    "name": "Королева Мав",
+    "picName": "n_mav",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 11,
+    "name": "Король Ракум",
+    "picName": "n_rakum",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 12,
+    "name": "Крепкий скелет",
+    "picName": "n_skelet",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 13,
+    "name": "Куру",
+    "picName": "n_kuru",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 14,
+    "name": "Лесной куролиск",
+    "picName": "n_kurolisc",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 15,
+    "name": "Минотавр-воин",
+    "picName": "n_minotavr",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 16,
+    "name": "Нага-королева",
+    "picName": "n_nagak",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 17,
+    "name": "Огр-воин",
+    "picName": "n_ogrewar",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 18,
+    "name": "Паук-птицеед",
+    "picName": "n_spider",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 19,
+    "name": "Руум",
+    "picName": "n_ruum",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 20,
+    "name": "Сирена",
+    "picName": "n_siren",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 21,
+    "name": "Стальной жук",
+    "picName": "n_zhuk",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 22,
+    "name": "Флинд мечник",
+    "picName": "n_flind",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 23,
+    "name": "Чабон",
+    "picName": "n_chabon",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 24,
+    "name": "Шрам",
+    "picName": "n_shram",
+    "respawnTimeMin": 1200,
+    "respawnTimeMax": 1200
+  },
+  {
+    "id": 25,
+    "name": "Астарот",
+    "picName": "iv_astarot",
+    "respawnTimeMin": 21600,
+    "respawnTimeMax": 21600
+  },
+  {
+    "id": 26,
+    "name": "Виверна",
+    "picName": "iv_wivern",
+    "respawnTimeMin": 7200,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 27,
+    "name": "Горгулья",
+    "picName": "iv_garga",
+    "respawnTimeMin": 3600,
+    "respawnTimeMax": 3600
+  },
+  {
+    "id": 28,
+    "name": "Лилит",
+    "picName": "iv_lilit",
+    "respawnTimeMin": 21600,
+    "respawnTimeMax": 21600
+  },
+  {
+    "id": 29,
+    "name": "Огненный демон",
+    "picName": "iv_dimon",
+    "respawnTimeMin": 3600,
+    "respawnTimeMax": 3600
+  },
+  {
+    "id": 30,
+    "name": "Огр",
+    "picName": "",
+    "respawnTimeMin": 7200,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 31,
+    "name": "Огр-маг",
+    "picName": "iv_ogremage",
+    "respawnTimeMin": 7200,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 32,
+    "name": "Черный единорог",
+    "picName": "",
+    "respawnTimeMin": 7200,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 33,
+    "name": "Атараксия",
+    "picName": "b_ataraksiya",
+    "respawnTimeMin": 28800,
+    "respawnTimeMax": 36000
+  },
+  {
+    "id": 34,
+    "name": "Бельжевит",
+    "picName": "b_belj",
+    "respawnTimeMin": 37800,
+    "respawnTimeMax": 37800
+  },
+  {
+    "id": 35,
+    "name": "Властитель континента",
+    "picName": "b_vlastcont",
+    "respawnTimeMin": 14400,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 36,
+    "name": "Гвардеец ада",
+    "picName": "b_gvardhell",
+    "respawnTimeMin": 34980,
+    "respawnTimeMax": 34980
+  },
+  {
+    "id": 37,
+    "name": "Завоеватель океана",
+    "picName": "b_ocean",
+    "respawnTimeMin": 14400,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 38,
+    "name": "Злые мысли Юпитера",
+    "picName": "b_yupiter",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 39,
+    "name": "Капитан рыцарей Рарки",
+    "picName": "b_keprar",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 40,
+    "name": "Командир Баальбека",
+    "picName": "b_baalbek",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 41,
+    "name": "Командующий копейщиков",
+    "picName": "b_kepspear",
+    "respawnTimeMin": 14400,
+    "respawnTimeMax": 21600
+  },
+  {
+    "id": 42,
+    "name": "Королева горишей",
+    "picName": "b_gorish",
+    "respawnTimeMin": 28800,
+    "respawnTimeMax": 36000
+  },
+  {
+    "id": 43,
+    "name": "Король-лич",
+    "picName": "b_lich",
+    "respawnTimeMin": 34200,
+    "respawnTimeMax": 34200
+  },
+  {
+    "id": 44,
+    "name": "Кровавый Рарка",
+    "picName": "b_bloodrarka",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 45,
+    "name": "Кровавый Танатос",
+    "picName": "b_bloodtanatos",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 46,
+    "name": "Лорд акрионцев",
+    "picName": "b_lordacra",
+    "respawnTimeMin": 15600,
+    "respawnTimeMax": 15600
+  },
+  {
+    "id": 47,
+    "name": "Наездница на виверне",
+    "picName": "b_naezd",
+    "respawnTimeMin": 32400,
+    "respawnTimeMax": 39600
+  },
+  {
+    "id": 48,
+    "name": "Огненный тиран",
+    "picName": "b_fire",
+    "respawnTimeMin": 14400,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 49,
+    "name": "Спектр",
+    "picName": "b_spectre",
+    "respawnTimeMin": 28800,
+    "respawnTimeMax": 36000
+  },
+  {
+    "id": 50,
+    "name": "Страж Метеоса",
+    "picName": "b_strajmet",
+    "respawnTimeMin": 72000,
+    "respawnTimeMax": 72000
+  },
+  {
+    "id": 51,
+    "name": "Танатос",
+    "picName": "b_tanatos",
+    "respawnTimeMin": 0,
+    "respawnTimeMax": 0
+  },
+  {
+    "id": 52,
+    "name": "Урук-хай",
+    "picName": "b_uruk",
+    "respawnTimeMin": 31020,
+    "respawnTimeMax": 31020
+  },
+  {
+    "id": 53,
+    "name": "Хватафорс",
+    "picName": "b_hvat",
+    "respawnTimeMin": 36000,
+    "respawnTimeMax": 36000
+  },
+  {
+    "id": 54,
+    "name": "Хранитель сильного яда",
+    "picName": "b_wind",
+    "respawnTimeMin": 14400,
+    "respawnTimeMax": 14400
+  },
+  {
+    "id": 55,
+    "name": "Черная виверна",
+    "picName": "b_wivernblack",
+    "respawnTimeMin": 37020,
+    "respawnTimeMax": 37020
+  }
+]
